@@ -1,7 +1,7 @@
 # Projeto final de Frontend Web da Gamma Experience (Fev/2021)
  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 
-O objetivo do projeto foi desenvolver uma rede social de música onde os usuário pudessem compartilhar playlists, imagens, vídeos, curtir e comentar postagens dos amigos.
+O objetivo do projeto foi desenvolver uma rede social de música onde os usuários pudessem compartilhar playlists, imagens, vídeos, curtir e comentar postagens dos amigos.
 
 ## Status:
 - A concluir. Login e Cadastros concluídos e conectados ao banco de dados. Falta concluir a parte funcional da iterações entre os usuários.
