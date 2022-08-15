@@ -25,15 +25,4 @@ O objetivo do projeto foi desenvolver uma rede social de música onde os usuári
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## Layout do projeto:
-<div style="display:inline-block">
-  <img height="180em" src="https://raw.githubusercontent.com/LayaneB/imagens/main/idMusicInicial.png">
-
-  <img height="180em" src="https://raw.githubusercontent.com/LayaneB/imagens/main/idMusicLogin.png">
-
-  <img height="180em" src="https://raw.githubusercontent.com/LayaneB/imagens/main/idMusicCadastro.png">
-
-  <img height="180em" src="https://raw.githubusercontent.com/LayaneB/imagens/main/idMusicFeed.png">
-</div>
-
   
